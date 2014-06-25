@@ -1,7 +1,9 @@
 [
     {
-        "repository": "CarbonDev/proprietary_vendor_samsung",
+        "remote": "gh"
+        "repository": "TheMuppets/proprietary_vendor_samsung",
         "target_path": "vendor/samsung"
+        "revision": "cm-11.0"
     },
     {
         "remote": "cm",
