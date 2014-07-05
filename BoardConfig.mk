@@ -150,6 +150,3 @@ BOARD_BATTERY_DEVICE_NAME := battery
 
 # External apps on SD
 TARGET_EXTERNAL_APPS = sdcard1
-
-# Build with Toolchain's version 4.8
-TARGET_GCC_VERSION_EXP := 4.8

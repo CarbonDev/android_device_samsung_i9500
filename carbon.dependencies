@@ -34,17 +34,5 @@
         "repository": "GearCM/android_kernel_samsung_exynos5410",
         "target_path": "kernel/samsung/exynos5410",
         "revision": "cm-11.0"
-    },
-    {
-        "remote": "gh",
-        "repository": "JustArchi/Linaro",
-        "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.8",
-        "revision": "4.8-eabi"
-    },
-    {
-        "remote": "gh",
-        "repository": "JustArchi/Linaro",
-        "target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8",
-        "revision": "4.8-androideabi"
     }
 ]
