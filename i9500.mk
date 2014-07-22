@@ -147,10 +147,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Torch
 
-# QuickBoot
-PRODUCT_PACKAGES += \
-    QuickBoot
-
 # Wifi
 PRODUCT_PACKAGES += \
     libnetcmdiface \
