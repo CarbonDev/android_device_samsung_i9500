@@ -48,9 +48,6 @@ BOARD_KERNEL_PAGESIZE := 2048
 TARGET_KERNEL_CONFIG := cyanogenmod_i9500_defconfig
 TARGET_KERNEL_SOURCE := kernel/samsung/exynos5410
 
-# Build with Linaro ARM GCC version 4.8
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := linaro-arm-eabi-4.8/bin/arm-eabi-
-
 # Audio
 BOARD_USES_LIBMEDIA_WITH_AUDIOPARAMETER := true
 
