@@ -132,10 +132,6 @@ PRODUCT_PACKAGES += \
     libOMX.Exynos.AVC.Encoder \
     libstagefrighthw
 
-# QuickBoot
-PRODUCT_PACKAGES += \
-    QuickBoot
-
 # Radio
 PRODUCT_PACKAGES += \
     libsecril-client \
